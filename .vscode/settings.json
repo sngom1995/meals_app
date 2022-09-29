@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnPaste": true,
+    "editor.codeActionsOnSave": {
+    
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.columnSelection": true,
+    "editor.defaultFormatter": "ricardo-emerson.create-flutter-widgets-and-classes",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.experimental.pasteActions.enabled": true,
+    "cSpell.words": [
+        "Raleway",
+        "Roboto"
+    ]
+}
